@@ -1,2 +1,9 @@
-# securekey-lab
-SecureKey Lab is a mobile-first cybersecurity education and Android security diagnostics platform featuring ethical hacking simulations, CTF challenges, and certifications—designed to be legal, safe, and Play Store compliant.
+## SecureKey Lab
+
+SecureKey Lab is an educational cybersecurity platform for Android that teaches
+ethical hacking, mobile security, and cyber defense through simulations,
+labs, and capture-the-flag challenges.
+
+🚫 No exploits
+🚫 No password cracking
+✅ Legal, ethical, Play-Store-safe
